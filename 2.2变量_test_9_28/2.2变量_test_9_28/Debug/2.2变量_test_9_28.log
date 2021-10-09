@@ -1,0 +1,2 @@
+﻿  test.cpp
+E:\C++\C++ primer\2.2变量_test_9_28\2.2变量_test_9_28\test.cpp(20): error C4700: 使用了未初始化的局部变量“a”
